@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Client</title>
+    <script src="lib/jquery/jquery.min.js"></script>
+</head>
+<body>
+    <h3>List Patients</h3>
+    <button id="btnGetPatients">Get</button>
+    <pre id="preOutput"></pre>
+    <script>
+        $(function () {
+            var getPatients = function () {
+                var url = "https://localhost:44323/api/patients";
+                $.get(url).always(showResponse);
+                return false;
+            };
+
+            var showResponse = function (object) {
+                $("#preOutput").text(JSON.stringify(object, null, 4));
+            };
+
+            $("#btnGetPatients").click(getPatients);
+        });
+    </script>
+</body>
+</html>

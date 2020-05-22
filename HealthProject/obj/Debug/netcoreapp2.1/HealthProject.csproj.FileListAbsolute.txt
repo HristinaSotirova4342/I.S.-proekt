@@ -1,0 +1,36 @@
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.deps.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.runtimeconfig.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.runtimeconfig.dev.json
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.dll
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.csprojAssemblyReference.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorAssemblyInfo.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorAssemblyInfo.cs
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.AssemblyInfoInputs.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.AssemblyInfo.cs
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorTargetAssemblyInfo.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.genruntimeconfig.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.pdb
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.csproj.CoreCompileInputs.cache
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.dll
+C:\Users\Hristina\Desktop\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.pdb
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.deps.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.runtimeconfig.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.runtimeconfig.dev.json
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.dll
+C:\faks\interent services\HealthProject\HealthProject\bin\Debug\netcoreapp2.1\HealthProject.pdb
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.csprojAssemblyReference.cache
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.csproj.CoreCompileInputs.cache
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorAssemblyInfo.cache
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorAssemblyInfo.cs
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.AssemblyInfoInputs.cache
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.AssemblyInfo.cs
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.RazorTargetAssemblyInfo.cache
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.dll
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.pdb
+C:\faks\interent services\HealthProject\HealthProject\obj\Debug\netcoreapp2.1\HealthProject.genruntimeconfig.cache
